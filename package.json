@@ -41,7 +41,7 @@
     "fsevents": "^0.3.7"
   },
   "dependencies": {
-    "anymatch": "^1.1.0",
+    "anymatch": "^2.0.0",
     "arrify": "^1.0.0",
     "async-each": "^0.1.5",
     "glob-parent": "^1.0.0",
